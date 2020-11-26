@@ -11,5 +11,5 @@ Load a mesh (.obj / .off) file and display it using OpenGL.
     - Click and move the cursor
     
 3. Execution examples
-    ![alt text](https://github.com/ssharadhas/load_mesh/blob/main/zoomin.png?raw=true)
+    ![alt text](https://github.com/ssharadhas/load_mesh/blob/main/results/zoomin.png?raw=true)
 
