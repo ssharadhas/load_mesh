@@ -17,6 +17,6 @@ Load a mesh (.obj / .off) file and display it using OpenGL.
     - Zoom out
     ![alt text](https://github.com/ssharadhas/load_mesh/blob/main/results/zoomout.png?raw=true)
     
-    -Rotate
+    - Rotate
     ![alt text](https://github.com/ssharadhas/load_mesh/blob/main/results/rotate.png?raw=true)
 
