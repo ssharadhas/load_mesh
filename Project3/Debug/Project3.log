@@ -1,0 +1,13 @@
+﻿  new.cpp
+C:\Users\sshar\Desktop\meshrendering\Project3\new.cpp(152,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sshar\Desktop\meshrendering\Project3\new.cpp(152,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sshar\Desktop\meshrendering\Project3\new.cpp(152,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sshar\Desktop\meshrendering\Project3\new.cpp(153,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sshar\Desktop\meshrendering\Project3\new.cpp(153,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sshar\Desktop\meshrendering\Project3\new.cpp(153,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sshar\Desktop\meshrendering\Project3\new.cpp(154,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sshar\Desktop\meshrendering\Project3\new.cpp(154,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sshar\Desktop\meshrendering\Project3\new.cpp(154,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sshar\Desktop\meshrendering\Project3\new.cpp(175,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sshar\Desktop\meshrendering\Project3\new.cpp(175,11): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Project3.vcxproj -> C:\Users\sshar\Desktop\meshrendering\Debug\Project3.exe

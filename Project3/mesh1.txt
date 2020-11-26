@@ -1,0 +1,19 @@
+A PROGRAM TO DISPLAY 3D MESHES
+
+How to run?
+
+-install freeglut package 
+
+To the project add the following properties:
+-Go to c/c++ general->Additional include directories and add the include files
+-Add lib files in Linker->addtional library directories
+-Add freeglut.lib and glew32.lib to Linker->Input
+-Add .dll files to Windows->System32
+-Go into "Common Properties->C/C++->Preprocessor"
+-Edit the setting "Preprocessor Definitions" and add _CRT_SECURE_NO_WARNING
+
+
+Once the program runs, following can be done:
+-Use mouse right click to rotate the image
+-Use scroll up to zoom in and scroll down to zoom out
+
