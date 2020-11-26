@@ -11,5 +11,5 @@ Load a mesh (.obj / .off) file and display it using OpenGL.
     - Click and move the cursor
     
 3. Execution examples
-    - You could provide examples of execution with code and screenshots
+    ![image]
 
