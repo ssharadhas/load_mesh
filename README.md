@@ -1,6 +1,6 @@
 # load_mesh
 
-Load a mesh (.obj / .off) file and display it using OpenGL. 
+Load a mesh (.obj / .off) file and display it using OpenGL in C++ 
 
 ## Features
 
